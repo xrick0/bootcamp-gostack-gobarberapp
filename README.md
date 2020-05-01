@@ -5,12 +5,13 @@ API desenvolvida em nodeJS para uma aplicação de agendamento de serviços de b
 Tem como principais funcionalidades a criação e customização de usuários e agendamentos de serviços, utilizando 
 um banco de dados postgres para persistência da informação.
 
-Tecnologias utilizadas:
-[expressjs](https://expressjs.com)
-[TypeORM](https://typeorm.io)
-[bcryptjs](https://www.npmjs.com/package/bcryptjs)
-[JWT](https://jwt.io/)
-[multer](https://github.com/expressjs/multer)
+Tecnologias utilizadas: 
+<br>
+- [expressjs](https://expressjs.com) <br>
+- [TypeORM](https://typeorm.io) <br>
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs) <br>
+- [JWT](https://jwt.io/) <br>
+- [multer](https://github.com/expressjs/multer) <br>
 
 Como utilizar:
 ```
